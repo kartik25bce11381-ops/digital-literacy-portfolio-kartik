@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio - Student Digital Ambassador
 
 **Name:** Kartik Mathur  
-**Registration No.:** 2B0E10113  
+**Registration No.:** 2BCE11381
 **Course:** CSE0001 – Digital Literacy  
 **Project:** Digital Literacy Portfolio  
 
